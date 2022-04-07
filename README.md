@@ -1,0 +1,1 @@
+# tetsuo_akimoto.github.io
