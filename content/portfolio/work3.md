@@ -1,8 +1,8 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/portfolio/twitter_influencer.png"
 showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+date = "2022-06-02T19:44:32+05:30"
+title = "Twitter Influencer"
 draft = false
 weight = 2
 +++

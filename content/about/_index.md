@@ -15,6 +15,4 @@ title = "About me"
 * スイス連邦工科大学ローザンヌ校留学
 
 
-
-
 [1]: /img/main_photo.JPG
