@@ -1,4 +1,4 @@
-baseurl = "https://akmt2929.github.io/tetsuo_akimoto.github.io/"
+baseurl = "https://example.org/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -6,9 +6,6 @@ languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-
-publishDir = "docs"
-canonifyurls = true
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
