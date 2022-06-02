@@ -1,5 +1,5 @@
 baseurl = "https://akmt2929.github.io/tetsuo_akimoto.github.io/"
-title = "Creative portfolio"
+title = "Tetsuo Akimoto"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -13,12 +13,11 @@ canonifyurls = true
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "blue"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2022  Tetsuo Akimoto"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "東京在住。（2022年前半はスイスにいます）",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -32,7 +31,7 @@ canonifyurls = true
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "akimoto2918@g.ecc.u-tokyo.ac.jp"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -44,14 +43,15 @@ canonifyurls = true
       #  hash = ""
 
   # Nav links in the side bar
-  [[params.navlinks]]
+
+    [[params.navlinks]]
   name = "Home"
-  url = "portfolio/"
+  url = "about/"
   home = true
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  name = "Portfolio"
+  url = "portfolio/"
 
   [[params.navlinks]]
   name = "Get in touch"
@@ -59,13 +59,13 @@ canonifyurls = true
 
   [params.social]
   facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
+  # googleplus    = "full profile url in googleplus"
+  email         = "akimoto2918@g.ecc.u-tokyo.ac.jp"
+  twitter       = "https://twitter.com/akimoto2918"
+  # linkedin      = "full profile url in linkedin"
+  # stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  github        = "https://github.com/akmt2929"
+  # gitlab        = "full profile url in gitlab"
+  # youtube       = "full profile url in youtube"
+  # whatsapp      = "wa.me service link"
