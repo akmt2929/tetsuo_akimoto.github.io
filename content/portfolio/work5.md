@@ -3,7 +3,7 @@ image = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/mas
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "Name of the work 5"
+title = "Interaction Design"
 weight = 5
 +++
 
