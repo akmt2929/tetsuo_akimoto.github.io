@@ -17,7 +17,7 @@ canonifyurls = true
   description = "Describe your website"
   copyright = "&copy;2022  Tetsuo Akimoto"
   sidebarAbout = [
-    "東京在住。（2022年前半はスイスにいます）",
+    "Lives in Tokyo. Currently living in Switzerland.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
